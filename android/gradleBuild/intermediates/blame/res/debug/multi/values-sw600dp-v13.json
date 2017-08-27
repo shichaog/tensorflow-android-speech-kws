@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values-sw600dp/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 67,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 67,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values-sw600dp/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 67,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values-sw600dp/template-styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 874
+                    }
+                }
+            }
+        ]
+    }
+]

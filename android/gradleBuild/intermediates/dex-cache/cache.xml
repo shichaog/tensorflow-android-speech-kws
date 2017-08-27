@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c30841c6b9b0915e8dc14a1cde0471936c0452be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8b69f64695a6c6129125d54cf54f534cf18cc41">
+        <dex dex="/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_104db6916ddcc57e810a603b8fcc8b4bb84df4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gsc/.android/build-cache/1957ff4ef3848d5888ae8e19558223d661956b9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ba6a597bcf3b82bee642e99c7b02bf7b41b69c6">
+        <dex dex="/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_02b7c69c5212b18336ac625172b740a84e59cfeb.jar" />
+    </item>
+
+</items>

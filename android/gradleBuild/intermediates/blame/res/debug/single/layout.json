@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/list_text_item.xml",
+        "source": "/media/gsc/tensorflow/tensorflow/examples/android/res/layout/list_text_item.xml"
+    },
+    {
+        "merged": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_speech.xml",
+        "source": "/media/gsc/tensorflow/tensorflow/examples/android/res/layout/activity_speech.xml"
+    }
+]

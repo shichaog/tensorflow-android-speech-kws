@@ -1,0 +1,56 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:19:5-34
+	xmlns:android
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:22:22-68
+uses-sdk
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:24:5-26:41
+	android:targetSdkVersion
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:26:9-38
+	android:minSdkVersion
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:25:9-35
+application
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:28:5-42:19
+MERGED from [org.tensorflow:tensorflow-android:1.3.1-alpha] /home/gsc/.android/build-cache/1957ff4ef3848d5888ae8e19558223d661956b9b/output/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:30:9-41
+	android:debuggable
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:29:9-34
+	android:allowBackup
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:32:9-45
+activity#org.tensorflow.demo.SpeechActivity
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:34:9-41:20
+	android:screenOrientation
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:34:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:39:27-74
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/gsc/tensorflow/tensorflow/examples/android/AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

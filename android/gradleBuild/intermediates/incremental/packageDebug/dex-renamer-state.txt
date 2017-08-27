@@ -1,0 +1,7 @@
+#Sun Aug 27 12:35:14 CST 2017
+base.0=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_104db6916ddcc57e810a603b8fcc8b4bb84df4ff
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c30841c6b9b0915e8dc14a1cde0471936c0452be/classes.dex
+base.1=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c30841c6b9b0915e8dc14a1cde0471936c0452be
+file.0=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_104db6916ddcc57e810a603b8fcc8b4bb84df4ff/classes.dex

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values-v21/base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    }
+]

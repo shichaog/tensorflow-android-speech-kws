@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/media/gsc/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/media/gsc/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]

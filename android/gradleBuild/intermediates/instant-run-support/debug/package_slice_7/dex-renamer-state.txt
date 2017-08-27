@@ -1,0 +1,4 @@
+#Sun Aug 27 13:10:33 CST 2017
+base.0=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

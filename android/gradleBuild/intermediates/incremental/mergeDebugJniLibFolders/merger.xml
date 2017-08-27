@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/gsc/tensorflow/tensorflow/examples/android/libs"/></dataSet><dataSet config="debug"><source path="/media/gsc/tensorflow/tensorflow/examples/android/build-types/debug/jniLibs"/></dataSet></merger>

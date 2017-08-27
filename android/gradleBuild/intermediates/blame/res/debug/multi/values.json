@@ -1,0 +1,249 @@
+[
+    {
+        "outputFile": "/media/gsc/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 69,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 42,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 43,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 41,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 58,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 52,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 82,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 49,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 83,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 50,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 94,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 59,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 52,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endColumn": 26,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "/media/gsc/tensorflow/tensorflow/examples/android/res/values/template-styles.xml"
+                }
+            }
+        ]
+    }
+]
