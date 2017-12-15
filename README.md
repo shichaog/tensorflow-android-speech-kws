@@ -5,11 +5,11 @@ This is a very good example of using tensorflow in android APP. This example con
 
 The directory speech_commands  is get
 
-To tran the model:
+To train the model:
 python tensorflow/examples/speech_commands/train.py ----wanted_words=house
 
 
-To free pb:
+To freeze pb:
 python tensorflow/examples/speech_commands/freeze.py --start_checkpoint=/tmp/speech_commands_train/conv.ckpt-18000 --out_file=/tmp/my_frozen_graph.pb ----wanted_words=house
 
 After pb file generated, move to assets directory of android, android directory is an android studio project. The file used by my project is conv_actions_house_labels.txt and my_house_frozen_graph.pb.
