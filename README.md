@@ -6,7 +6,7 @@ This is a very good example of using tensorflow in android APP. This example con
 The directory speech_commands  is get
 
 To train the model:
-python tensorflow/examples/speech_commands/train.py ----wanted_words=house
+python tensorflow/examples/speech_commands/train.py --wanted_words=house
 
 
 To freeze pb:
