@@ -19,3 +19,7 @@ If you want to downlad image pb file, you may change download-models.gradle file
 I think this is a good reference for anyone who want to know how tensorflow can be used by speech and android.
 
 For more information, see Readme of each directory.
+
+[You may refer to my speech enhancement and recognition GIT book.](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/)
+
+
