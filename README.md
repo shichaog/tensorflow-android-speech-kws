@@ -20,6 +20,6 @@ I think this is a good reference for anyone who want to know how tensorflow can 
 
 For more information, see Readme of each directory.
 
-[You may refer to my speech enhancement and recognition GIT book.](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/)
+[You may click here to to git book for more material.](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/)
 
 
